@@ -25,6 +25,7 @@
             'https://media.themoviedb.org/t/p/w600_and_h900_face/lKSfzbUQAhHLHVXAHjr5Yzi67V.jpg',
             'https://media.themoviedb.org/t/p/w600_and_h900_face/inAgrq4xzZeMUb2OMViLTtwGRho.jpg',
             'https://media.themoviedb.org/t/p/w600_and_h900_face/yiAzM6NSQEOmsrI1kVXkaIqWgkz.jpg',
+            'https://media.themoviedb.org/t/p/w600_and_h900_face/l633GuQGaHJFfNhQg2cEBZHoVjI.jpg',
         ];
            function afficherImageAleatoire() {
            const indexAleatoire = Math.floor(Math.random() * images.length);
